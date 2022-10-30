@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-The data science lifecycle is designed for big data issues and the data science projects. Generally, the data science project consists of seven steps which are problem definition, data collection, data preparation, data exploration, data modeling, model evaluation and model deployment.
+Big data problems and data science initiatives are catered for by the data science lifecycle. The seven steps of a typical data science project include problem description, data collection, preparation, exploration, modelling, assessment, and deployment of the model. 
 
-The goal of this project is to go through the data science lifecycle steps in order to build a heart disease classification web application by using [UCI heart disease](https://archive.ics.uci.edu/ml/datasets/statlog+(heart)) dataset. This project uses Flask API to deploy the model and build the web application.
+The objective of this project is to use the [UCI heart disease](https://archive.ics.uci.edu/ml/datasets/statlog+(heart)) dataset and go through the data science lifecycle processes to construct a web application for classifying heart diseases. To deploy the model and create the web application for this project, we use the Flask API.
 
 ## Installation 
 
